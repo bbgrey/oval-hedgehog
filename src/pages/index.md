@@ -7,10 +7,7 @@ sections:
     actions:
       - label: llamar a dentista barcelona
         url: ''
-        - type: section_content
-            bg: gray
-            title: 
-            content: '[Call 123-4567](callto:1234567)'
+       
   - type: section_hero
     section_id: hero
     title: This Is A Big Hero Headline
