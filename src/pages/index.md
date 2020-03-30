@@ -6,7 +6,7 @@ sections:
     subtitle: Te esperamos con ofertas fantastgicas!!!!
     actions:
       - label: llamar a dentista barcelona
-        url: '<a href="tel:+34678567876">Aquí el texto que quieras</a>'
+        url: ''
   - type: section_hero
     section_id: hero
     title: This Is A Big Hero Headline
