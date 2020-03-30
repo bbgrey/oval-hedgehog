@@ -7,7 +7,6 @@ sections:
     actions:
       - label: llamar a dentista barcelona
         url: ''
-        <a href="tel:123-456-7890">123-456-7890</a>
   - type: section_hero
     section_id: hero
     title: This Is A Big Hero Headline
