@@ -87,6 +87,16 @@ sections:
     section_id: recent-posts
     title: Latest Posts
     bg: gray
+  - type: section_content
+    bg: gray
+    title: test
+    content: |-
+
+
+      ```
+      <a href="callto:1234567">Call 123-4567</a>
+
+      ```
 menus:
   main:
     title: Home
