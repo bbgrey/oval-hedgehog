@@ -90,13 +90,7 @@ sections:
   - type: section_content
     bg: gray
     title: test
-    content: |-
-
-
-      ```
-      <a href="callto:1234567">Call 123-4567</a>
-
-      ```
+    content: '[Call 123-4567](callto:1234567)'
 menus:
   main:
     title: Home
