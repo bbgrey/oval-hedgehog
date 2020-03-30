@@ -1,13 +1,6 @@
 ---
 title: Home
 sections:
-  - type: section_cta
-    title: Llámanos!!
-    subtitle: Te esperamos con ofertas fantastgicas!!!!
-    actions:
-      - label: llamar a dentista barcelona
-        url: ''
-       
   - type: section_hero
     section_id: hero
     title: This Is A Big Hero Headline
@@ -88,7 +81,6 @@ sections:
     section_id: recent-posts
     title: Latest Posts
     bg: gray
-  
 menus:
   main:
     title: Home
