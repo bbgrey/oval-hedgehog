@@ -6,7 +6,7 @@ sections:
     subtitle: Te esperamos con ofertas fantastgicas!!!!
     actions:
       - label: llamar a dentista barcelona
-        url: '<tel:+375255318270>'
+        url: ''
   - type: section_hero
     section_id: hero
     title: This Is A Big Hero Headline
