@@ -7,7 +7,8 @@ sections:
     actions:
       - label: llamar a dentista barcelona
         url: ''
-        [Click me](http://www.google.com){: .btn}
+  - type: html
+  <p> hello world </p>
   - type: section_hero
     section_id: hero
     title: This Is A Big Hero Headline
