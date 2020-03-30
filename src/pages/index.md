@@ -6,7 +6,7 @@ sections:
     subtitle: Te esperamos con ofertas fantastgicas!!!!
     actions:
       - label: llamar a dentista barcelona
-        url: ''
+        url: 'tel:123-456-7890'
   - type: section_hero
     section_id: hero
     title: This Is A Big Hero Headline
