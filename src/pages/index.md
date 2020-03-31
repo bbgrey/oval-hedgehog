@@ -1,6 +1,6 @@
 ---
 title: Home
-<a href="tel:+18475555555">{_.get(action, 'label')}</a>
+
 sections:
   - type: section_hero
     section_id: hero
