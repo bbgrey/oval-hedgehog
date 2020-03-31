@@ -21,8 +21,10 @@ export default class SectionCta extends React.Component {
                   </div>
                   {_.get(this.props, 'section.actions') && 
                   <div className="cell block-buttons">
+                      <a href="tel:5551234567">Call (555)123-4567</a>
                     {_.map(_.get(this.props, 'section.actions'), (action, action_idx) => (
                     <Link key={action_idx} to={safePrefix(_.get(action, 'url'))} className="button white large">{_.get(action, 'label')}</Link>
+
                     ))}
                   </div>
                   }
