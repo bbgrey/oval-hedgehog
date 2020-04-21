@@ -4,7 +4,6 @@ sections:
   - type: section_hero
     section_id: hero
     title: "Cínica dental en Barcelona : Natural y biosegura"
-    bg: gray
     content: >-
       Somos un equipo dentistas y de profesionales de la salud apasionados por
       nuestra profesión, nuestra clínica dental se encuentra en el barrio de
