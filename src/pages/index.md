@@ -21,7 +21,7 @@ sections:
 
 
       Nuestro concepto de clínica dental EQUILIBRIA surge de la idea de que para Equilibrar tu salud general es necesario Equilibrar tu salud bucal.
-    image: /images/clinica-dental-barcelona-barrio-sarria-dentistas.png
+    image: /images/clinica-dental-barcelona-barrio-sarria-dentistas-min.jpg
     actions:
       - label: Learn More
         url: /features
